@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Ian Parkinson - The News]]></title>
         <description><![CDATA[Ian Parkinson - The News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/parky-s-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 18:47:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 18:52:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/parky-s-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ian Parkinson]]></title>
+            <description><![CDATA[<article><h1>Ian Parkinson</h1><p>This is Ian Parkinson's Home Page, below you will find links to a number of web sites that I have designed and built using the Apple iWeb application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126a5e0d1b6f974d45f56cfb5ea1320840ebed26.png"></article>]]></description>
+            <link>http://idparkinson.co.uk/Homepage/Welcome.html</link>
+            <guid isPermaLink="false">db138b1b-e149-4cf5-b203-fbef967a7bf5</guid>
+            <pubDate>Mon, 28 Mar 2016 18:51:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Batman v Superman takes $424m at global box office - BBC News]]></title>
             <description><![CDATA[<article><h1>Batman v Superman takes $424m at global box office - BBC News</h1><p>Batman v Superman: Dawn of Justice has taken $424m (£300m) at the box office worldwide in its first five days despite poor reviews. The global total - the fourth-highest ever - included $170.1m in the United States, a record for a March debut and the sixth-highest US opening weekend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9444d93a4746f685873f6fd8029f6a5e71715873.jpg"></article>]]></description>
