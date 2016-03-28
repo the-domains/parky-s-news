@@ -1,7 +1,7 @@
 name: "Parky's News"
 favicon: null
-layout_spectrum: 0.49629
-typography_spectrum: 0.75866
+layout_spectrum: 0.75619
+typography_spectrum: 0.50866
 title: Ian Parkinson - The News
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#556282'
-    - '#0f131c'
-    - '#fffff2'
-    - '#fdde9b'
-    - '#99a4b6'
+    - '#6d8ac1'
+    - '#91b0dc'
+    - '#d4dee9'
+    - '#333552'
+    - '#070318'
   brandStrength: 0.375
   lightness: 0.3125
   saturation: 0.1875
