@@ -17,8 +17,8 @@ keywords:
   - kindle
   - pdf
 description: "This is Ian Parkinson's News page"
-datePublished: '2016-03-28T23:18:15.809Z'
-dateModified: '2016-03-28T23:17:47.987Z'
+datePublished: '2016-03-28T23:21:58.778Z'
+dateModified: '2016-03-28T23:18:24.553Z'
 author: []
 related: []
 app_links: []
