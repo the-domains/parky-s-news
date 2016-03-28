@@ -17,8 +17,8 @@ keywords:
   - kindle
   - pdf
 description: "This is Ian Parkinson's News page"
-datePublished: '2016-03-28T22:59:13.750Z'
-dateModified: '2016-03-28T22:58:41.512Z'
+datePublished: '2016-03-28T23:17:39.379Z'
+dateModified: '2016-03-28T23:17:37.362Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Ian Parkinson</h1><p>This is Ian Parkinson's that I have designed and built using the Apple iWeb application.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126a5e0d1b6f974d45f56cfb5ea1320840ebed26.png" /></article>
+<article style=""><h1>Ian Parkinson</h1><p>This is Ian Parkinson's News page</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/126a5e0d1b6f974d45f56cfb5ea1320840ebed26.png" /></article>
