@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.eno.org'
-  name: Eno
-  favicon: 'https://www.eno.org/wp-content/themes/eno/assets/favicons/favicon.ico'
-  domain: www.eno.org
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.eno.org/whats-on/sunset-boulevard/'
+inLanguage: en
+starred: false
 keywords:
   - boulevard
   - sunset
@@ -18,17 +17,20 @@ keywords:
   - ltd
   - gradelinnit
 description: "Andrew Lloyd Webber's hit musical Sunset Boulevard comes to the London Coliseum, with Glenn Close reprising her Tony Award-winning role as Norma Desmond. Sunset Boulevard is a compelling story of romance and obsession, based on Billy Wilder's classic film, with celebrated book and lyrics by Don Black and Christopher Hampton."
-inLanguage: en
+datePublished: '2016-03-28T22:27:11.911Z'
+dateModified: '2016-03-28T22:27:11.489Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.eno.org/whats-on/sunset-boulevard/'
 title: Sunset Boulevard
-datePublished: '2016-03-28T18:53:31.191Z'
-dateModified: '2016-03-28T18:51:28.888Z'
 sourcePath: _posts/2016-03-28-sunset-boulevard.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Eno
+  domain: www.eno.org
+  url: 'https://www.eno.org'
+  favicon: 'https://www.eno.org/wp-content/themes/eno/assets/favicons/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
