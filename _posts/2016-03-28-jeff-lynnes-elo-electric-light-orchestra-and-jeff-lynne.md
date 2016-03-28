@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-28T22:26:31.981Z'
-dateModified: '2016-03-28T22:19:45.246Z'
+datePublished: '2016-03-28T23:10:32.090Z'
+dateModified: '2016-03-28T23:10:22.903Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Jeff Lynne's ELO - Electric Light Orchestra and Jeff Lynne</h1><img src="https://jefflynneselo.com/wp-content/themes/elo/img/nebula-min.png" /></article>
+<article style=""><h1>Jeff Lynne's ELO - Electric Light Orchestra and Jeff Lynne</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57376bcd0845e56f2866f7c99f5d0d10479aa847.png" /></article>
