@@ -17,8 +17,8 @@ keywords:
   - familiesclerkenwell
   - bespoke
 description: Clerkenwell Gloss Graphite kitchens feature gloss flint grey slab doors with integrated linear pull handle.
-datePublished: '2016-03-28T23:12:33.669Z'
-dateModified: '2016-03-28T23:12:28.408Z'
+datePublished: '2016-03-28T23:18:36.710Z'
+dateModified: '2016-03-28T23:15:56.404Z'
 author: []
 related: []
 app_links: []
