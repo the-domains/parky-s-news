@@ -16,9 +16,9 @@ keywords:
   - mac
   - kindle
   - pdf
-description: "This is Ian Parkinson's Home Page, below you will find links to a number of web sites that I have designed and built using the Apple iWeb application."
-datePublished: '2016-03-28T22:58:08.195Z'
-dateModified: '2016-03-28T22:57:02.896Z'
+description: "This is Ian Parkinson's News page"
+datePublished: '2016-03-28T22:59:13.750Z'
+dateModified: '2016-03-28T22:58:41.512Z'
 author: []
 related: []
 app_links: []
