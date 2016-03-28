@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.apple.com'
-  name: Apple
-  favicon: 'http://www.apple.com/favicon.ico'
-  domain: www.apple.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.apple.com/uk/watch/'
+inLanguage: en
+starred: false
 keywords:
   - apple
   - watch
@@ -18,22 +17,25 @@ keywords:
   - favourite
   - way
 description: 'From the way it works to the way it looks, Apple Watch is an essential part of who you are.'
-inLanguage: en
+datePublished: '2016-03-28T22:27:20.877Z'
+dateModified: '2016-03-28T22:27:20.459Z'
+author: []
+related: []
 app_links:
   - url: 'http://www.apple.com/uk/xc/watch?cid=AOS_ASA'
     type: ios
     namespace: ai
     app_name: Apple Store
     app_store_id: '375380948'
-isBasedOnUrl: 'http://www.apple.com/uk/watch/'
 title: Apple Watch
-datePublished: '2016-03-28T19:09:50.739Z'
-dateModified: '2016-03-28T19:08:26.611Z'
 sourcePath: _posts/2016-03-28-apple-watch.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Apple
+  domain: www.apple.com
+  url: 'http://www.apple.com'
+  favicon: 'http://www.apple.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
