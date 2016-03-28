@@ -1,4 +1,14 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/user/idparkinson'
+inLanguage: null
+starred: false
+keywords: []
+description: Here you you will fine various travel videos from our trips around the world.
+datePublished: '2016-03-28T22:43:25.332Z'
+dateModified: '2016-03-28T22:43:19.459Z'
 author:
   - name: Ian Parkinson
     url: 'http://www.youtube.com/user/idparkinson'
@@ -23,13 +33,6 @@ author:
           - 161
           - 144
 related: []
-publisher:
-  url: 'http://youtube.com'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: Here you you will fine various travel videos from our trips around the world.
 app_links:
   - url: 'vnd.youtube://user/UCRRBkl_0F3cMgIN5UYbr0Ow'
     type: ios
@@ -67,15 +70,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/user/idparkinson'
 title: Ian Parkinson
-datePublished: '2016-03-28T22:40:12.807Z'
-dateModified: '2016-03-28T22:37:17.678Z'
 sourcePath: _posts/2016-03-28-ian-parkinson.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'http://youtube.com'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
