@@ -1,0 +1,28 @@
+name: "Parky's News"
+favicon: null
+layout_spectrum: 0.3760456561576575
+typography_spectrum: 0.19546724390238523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.33900274708867073
+  lightness: 0.030104113509878516
+  saturation: 0.6219523679465055
+  rhythmicContrast: 0.7350830077193677
+purpose: []
