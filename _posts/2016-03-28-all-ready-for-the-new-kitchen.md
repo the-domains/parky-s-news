@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Old kitchen ready for removal
-datePublished: '2016-03-28T23:21:41.394Z'
-dateModified: '2016-03-28T23:21:22.540Z'
+datePublished: '2016-03-28T23:23:50.424Z'
+dateModified: '2016-03-28T23:23:47.453Z'
 author: []
 title: All ready for the new kitchen
 sourcePath: _posts/2016-03-28-all-ready-for-the-new-kitchen.md
