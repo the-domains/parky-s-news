@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://idparkinson.co.uk'
-  name: Idparkinson
-  favicon: null
-  domain: idparkinson.co.uk
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://idparkinson.co.uk/Homepage/Welcome.html'
+inLanguage: en
+starred: true
 keywords:
   - baltic
   - diary
@@ -18,17 +17,20 @@ keywords:
   - kindle
   - pdf
 description: "This is Ian Parkinson's Home Page, below you will find links to a number of web sites that I have designed and built using the Apple iWeb application."
-inLanguage: en
+datePublished: '2016-03-28T22:26:58.830Z'
+dateModified: '2016-03-28T22:26:58.456Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://idparkinson.co.uk/Homepage/Welcome.html'
 title: Ian Parkinson
-datePublished: '2016-03-28T18:51:43.966Z'
-dateModified: '2016-03-28T18:49:34.307Z'
 sourcePath: _posts/2016-03-28-ian-parkinson.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Idparkinson
+  domain: idparkinson.co.uk
+  url: 'http://idparkinson.co.uk'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
