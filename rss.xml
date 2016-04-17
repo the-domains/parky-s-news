@@ -4,7 +4,7 @@
         <description><![CDATA[Ian Parkinson - The News]]></description>
         <link>https://thegrid.ai/parky-s-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:53:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 15:42:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/parky-s-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ian Parkinson]]></title>
@@ -12,6 +12,13 @@
             <link>http://idparkinson.co.uk/Homepage/Welcome.html</link>
             <guid isPermaLink="false">db138b1b-e149-4cf5-b203-fbef967a7bf5</guid>
             <pubDate>Mon, 28 Mar 2016 23:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nice gesture!]]></title>
+            <description><![CDATA[<article><h1>Nice gesture!</h1><p>An auction in London is featuring a custom 12.9-inch iPad Pro and accompanying Smart Cover, Apple Pencil and holder as one of its lots, as donated by Apple SDO Jony Ive and his design team.</p><img src="http://photos.appleinsidercdn.com/gallery/16565-13489-160415-iPad-Auction-xl.jpg"></article>]]></description>
+            <link>http://appleinsider.com/articles/16/04/15/apples-jony-ive-design-team-donate-one-of-a-kind-ipad-pro-accessories-to-charity-auction</link>
+            <guid isPermaLink="false">acbe9cec-73f9-43a9-a6fc-2d2bf6061717</guid>
+            <pubDate>Sun, 17 Apr 2016 15:40:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Painting]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.apple.com/uk/watch/</link>
             <guid isPermaLink="false">fd33679b-e496-4d5c-b44a-4c80ed8a9f38</guid>
             <pubDate>Mon, 28 Mar 2016 22:27:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Boulevard]]></title>
-            <description><![CDATA[<article><h1>Sunset Boulevard</h1><p>Andrew Lloyd Webber's hit musical Sunset Boulevard comes to the London Coliseum, with Glenn Close reprising her Tony Award-winning role as Norma Desmond. Sunset Boulevard is a compelling story of romance and obsession, based on Billy Wilder's classic film, with celebrated book and lyrics by Don Black and Christopher Hampton.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ce2abb4b067ebae20392d4799a8ca0d55295842.jpg"></article>]]></description>
-            <link>https://www.eno.org/whats-on/sunset-boulevard/</link>
-            <guid isPermaLink="false">8f1ee5b0-9baa-47e3-acf6-a5f3faa428d4</guid>
-            <pubDate>Mon, 28 Mar 2016 22:27:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
