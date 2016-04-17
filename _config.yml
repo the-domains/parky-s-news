@@ -1,29 +1,41 @@
-name: "Parky's News"
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.50866
 title: Ian Parkinson - The News
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.75
+  brandStrength: 0.8966165
+  lightness: 1
+  brandColors:
+    - '#171716'
+    - '#808680'
+    - '#98ACCF'
+    - '#FFFFFF'
+    - '#FF2F3B'
+  rhythmicContrast: 0.75
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: "Parky's News"
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#6d8ac1'
-    - '#91b0dc'
-    - '#d4dee9'
-    - '#333552'
-    - '#070318'
-  brandStrength: 0.75
-  lightness: 1
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.4066416
+layout_spectrum: 0.7882205
