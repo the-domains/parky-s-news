@@ -1,8 +1,5 @@
-typography_spectrum: 0.4066416
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: Ian Parkinson - The News
+purpose: []
 collections:
   - index:
       path: /
@@ -15,27 +12,30 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.7882205
-title: Ian Parkinson - The News
-purpose: []
 color:
-  saturation: 0.75
+  saturation: 0.5269424
   brandStrength: 0.8966165
-  rhythmicContrast: 0.75
+  lightness: 0.6328321
   brandColors:
     - '#171716'
     - '#808680'
     - '#98ACCF'
     - '#FFFFFF'
     - '#FF2F3B'
-  lightness: 1
+  rhythmicContrast: 0.75
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
 name: "Parky's News"
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.4066416
+layout_spectrum: 0.7882205
