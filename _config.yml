@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: "Parky's News"
 favicon: null
+name: "Parky's News"
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.9154136
-layout_spectrum: 0.7882205
+layout_spectrum: 0.7324561
