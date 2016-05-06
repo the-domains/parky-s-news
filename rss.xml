@@ -4,7 +4,7 @@
         <description><![CDATA[Ian Parkinson - The News]]></description>
         <link>https://thegrid.ai/parky-s-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 15:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 11:13:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/parky-s-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ian Parkinson]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Mon, 28 Mar 2016 23:21:58 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Just built this, looks great!]]></title>
+            <description><![CDATA[<article><h1>Just built this, looks great!</h1><p>Go in search of the enemy with Kylo Ren's Command Shuttle with storage bays, spring-loaded shooters, amazing extending wing function and more.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60414e5e1259803b03619be3b3162a0d45f7e3b8.jpg"></article>]]></description>
+            <link>http://shop.lego.com/en-GB/Kylo-Ren-s-Command-Shuttle-75104</link>
+            <guid isPermaLink="false">1486b43e-9b17-4f31-9a70-266409bfbb6d</guid>
+            <pubDate>Fri, 06 May 2016 11:13:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nice gesture!]]></title>
-            <description><![CDATA[<article><h1>Nice gesture!</h1><p>An auction in London is featuring a custom 12.9-inch iPad Pro and accompanying Smart Cover, Apple Pencil and holder as one of its lots, as donated by Apple SDO Jony Ive and his design team.</p><img src="http://photos.appleinsidercdn.com/gallery/16565-13489-160415-iPad-Auction-xl.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nice gesture!</h1><p>An auction in London is featuring a custom 12.9-inch iPad Pro and accompanying Smart Cover, Apple Pencil and holder as one of its lots, as donated by Apple SDO Jony Ive and his design team.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c03838e50e88e041cb65e4e0f33f67d2be6c82e.jpg"></article>]]></description>
             <link>http://appleinsider.com/articles/16/04/15/apples-jony-ive-design-team-donate-one-of-a-kind-ipad-pro-accessories-to-charity-auction</link>
             <guid isPermaLink="false">acbe9cec-73f9-43a9-a6fc-2d2bf6061717</guid>
             <pubDate>Sun, 17 Apr 2016 15:40:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Painting]]></title>
-            <description><![CDATA[<article><h1>Painting</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c19874f8-9b1f-45ac-b530-85c010d65ecb.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c19874f8-9b1f-45ac-b530-85c010d65ecb.jpg">]]></description>
             <link>https://thegrid.ai/parky-s-news/painting/index.html</link>
             <guid isPermaLink="false">2af72816-4920-4a66-aebf-e4159849c119</guid>
             <pubDate>Mon, 11 Apr 2016 20:51:57 GMT</pubDate>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[All ready for the new kitchen]]></title>
-            <description><![CDATA[<article><h1>All ready for the new kitchen</h1><p>Old kitchen ready for removal</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d5909a-b5e7-4094-949b-e249d728671d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>All ready for the new kitchen</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d5909a-b5e7-4094-949b-e249d728671d.png"></article>]]></description>
             <link>urn:uuid:855148b1-101d-4848-a63a-9dc234029eae</link>
             <guid isPermaLink="false">3c786209-3d87-4959-a28b-0efdbed1eab5</guid>
             <pubDate>Mon, 28 Mar 2016 23:39:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=JdS3rR5_Lp4</link>
             <guid isPermaLink="false">8aa7e837-7850-4ed4-a9a9-8dbdd07cda78</guid>
             <pubDate>Mon, 28 Mar 2016 22:48:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Watch]]></title>
-            <description><![CDATA[<article><h1>Apple Watch</h1><p>From the way it works to the way it looks, Apple Watch is an essential part of who you are.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3edd7b6bc87295bf8ca77ff4c67ae7d4eb71d512.png"></article>]]></description>
-            <link>http://www.apple.com/uk/watch/</link>
-            <guid isPermaLink="false">fd33679b-e496-4d5c-b44a-4c80ed8a9f38</guid>
-            <pubDate>Mon, 28 Mar 2016 22:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
