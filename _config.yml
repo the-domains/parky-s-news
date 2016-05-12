@@ -13,7 +13,7 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.2261905
+  saturation: 0.5570176
   brandStrength: 0.8966165
   lightness: 0.8339599
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#FEFFCF'
     - '#E86323'
     - '#1C1F08'
-  rhythmicContrast: 0.2738095
+  rhythmicContrast: 0.5827067
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: "Parky's News"
+favicon: null
 opengraph:
   image: null
   type: null
