@@ -4,7 +4,7 @@
         <description><![CDATA[Ian Parkinson - The News]]></description>
         <link>https://thegrid.ai/parky-s-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 11:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 11:08:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/parky-s-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ian Parkinson]]></title>
@@ -12,6 +12,13 @@
             <link>http://idparkinson.co.uk/Homepage/Welcome.html</link>
             <guid isPermaLink="false">db138b1b-e149-4cf5-b203-fbef967a7bf5</guid>
             <pubDate>Mon, 28 Mar 2016 23:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At the ENO]]></title>
+            <description><![CDATA[<article><h1>At the ENO</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f31db1e0-e8a3-46fd-9b59-1445e86abf55.jpg"></article>]]></description>
+            <link>https://thegrid.ai/parky-s-news/at-the-eno/index.html</link>
+            <guid isPermaLink="false">848fe09b-dfeb-436f-8f81-62bf7b678261</guid>
+            <pubDate>Fri, 13 May 2016 11:07:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Just built this, looks great!]]></title>
@@ -68,13 +75,6 @@
             <link>https://jefflynneselo.com/</link>
             <guid isPermaLink="false">7a3cc112-ca9f-44fc-ac88-296984506376</guid>
             <pubDate>Mon, 28 Mar 2016 23:10:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirty dog goes bananas]]></title>
-            <description><![CDATA[<article><h1>Dirty dog goes bananas</h1><p>Monty the Shitzu / Maltese cross had a mad time running around, getting wet and dirty then makes his owner howl with laughter as he cleans himself on the carpet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4da9032b7a9de6fe108857b0209c6d14e5a06a4e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=JdS3rR5_Lp4</link>
-            <guid isPermaLink="false">8aa7e837-7850-4ed4-a9a9-8dbdd07cda78</guid>
-            <pubDate>Mon, 28 Mar 2016 22:48:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
