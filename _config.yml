@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3007519
+  saturation: 0.6215539
   brandStrength: 0.8966165
-  lightness: 0.8339599
+  lightness: 0.4649123
   brandColors:
     - '#4360B0'
     - '#11141B'
     - '#FFFEFF'
     - '#83899F'
     - '#ABBBCA'
-  rhythmicContrast: 0.7838346
+  rhythmicContrast: 0.891604
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: "Parky's News"
 favicon: null
+name: "Parky's News"
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9154136
-layout_spectrum: 0.7324561
+typography_spectrum: 0.664787
+layout_spectrum: 0.5946115
