@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.3007519
   brandStrength: 0.8966165
   lightness: 0.8339599
   brandColors:
-    - '#FFEB00'
-    - '#80A4B9'
-    - '#FEFFCF'
-    - '#E86323'
-    - '#1C1F08'
-  rhythmicContrast: 0.1641604
+    - '#4360B0'
+    - '#11141B'
+    - '#FFFEFF'
+    - '#83899F'
+    - '#ABBBCA'
+  rhythmicContrast: 0.7838346
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: "Parky's News"
+favicon: null
 opengraph:
   image: null
   type: null
